@@ -8,7 +8,7 @@ Short project description here.
 
 Before you begin, ensure you have the following software installed:
 
-- Node.js (v12 or higher)
+- Node.js (v16 or higher)
 - npm (Node Package Manager)
 - Git
 
@@ -17,7 +17,7 @@ Before you begin, ensure you have the following software installed:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/reshad-mahi/chatbot-fe.git
+   git clone https://github.com/sajjadhossain67/Custom-AI.git
    ```
 
 ### Install project dependencies:
