@@ -24,11 +24,11 @@ import MoreVertIcon from '@mui/icons-material/MoreVert';
 const DocList = () => {
   const user = {
     avatar: "/assets/avatars/avatar-anika-visser.png",
-    city: "Los Angeles",
-    country: "USA",
-    jobTitle: "Senior Developer",
-    name: "Anika Visser",
-    timezone: "GTM-7",
+    city: "Dhaka",
+    country: "BD",
+    jobTitle: "Software Engineer",
+    name: "Sajjad Hossain",
+    timezone: "GTM-6+",
   };
   const [botList, setBotList] = useState([]);
   const [isFetchingBotList, setIsFetchingBotList] = useState(false);
